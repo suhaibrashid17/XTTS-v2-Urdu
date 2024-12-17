@@ -1,6 +1,6 @@
 Inference:
 
-To run inference you can get the model, config and vocab file here https://kaggle.com/models/suhaibrashid2003/xtts-v2-urdu-ft
+To run inference you can get the model, config and vocab file here https://huggingface.co/suhaibrashid17/XTTS-v2-Urdu-FT
 You need to follow the following steps once you have downloaded the files
 1) pip install coqui-tts
 2) Locate TTS/tts/layers/xtts/tokenizers.py in site-packages
